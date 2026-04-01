@@ -134,4 +134,4 @@ PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
-MIT © [Alex Plisko](https://plisko.net)
+MIT © [drcode](https://plisko.net)
